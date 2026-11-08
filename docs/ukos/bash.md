@@ -9,7 +9,7 @@
 | touch | touch bash.md | Tworzy pusty plik (albo odświeża jego datę). |
 | cp | cp bash.md bash-backup.md | Kopiuje plik (z flagą -r kopiuje całe foldery). |
 | mv | mv bash-backup.md archive.md | Przenosi plik albo zmienia mu nazwę. |
-| rm | rm archive.md | Usuwa plik na stałe bez kosza |
+| rm | rm archive.md | Usuwa plik na na stałe bez kosza  |
 | cat | cat bash.md | Wyświetla zawartość pliku w terminalu. |
 | clear | clear | Czyści ekran terminala (historia komend zostaje). |
 
