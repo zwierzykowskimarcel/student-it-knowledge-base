@@ -15,6 +15,6 @@ git fetch (np. git fetch origin) - pobranie informacji o zmianach bez modyfikowa
 
 git branch - wyświetlenie lokalnych gałęzi i oznaczenie aktywnej
 
-git switch  (np. git switch -c feature/nazwa)- utworzenie gałęzi roboczej i przełączenie na nią
+git switch  (np. git switch -c feature/nazwa) - utworzenie gałęzi roboczej i przełączenie na nią
 
 git log	(np. git log --oneline -5) - skrócony podgląd pięciu ostatnich commitów
