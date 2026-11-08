@@ -1,5 +1,6 @@
 # student-it-knowledge-base
 
+Komendy warp i ukoss
 WARP i UKOS 
 
 Ściągi komend i przykłady do codziennego użytkowania w programowaniu.
